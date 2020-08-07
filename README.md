@@ -11,3 +11,6 @@ Hardware-wise, this includes everything from the PCB to the physical case around
 
 Additionally, I teach the [DIT112](https://canvas.gu.se/courses/30372/assignments/syllabus) course on Systems Development at the University of Gothenburg.
 In DIT112, students learn how to create a system composed of both software and hardware components in regards to development, requirements handling, testing and quality assurance; all that, in an agile manner. Check out some of their projects: [[2019](https://www.youtube.com/playlist?list=PLxwAhdZUbSph38__jMbrT-IjU4i3ZnMap)], [[2020](https://www.youtube.com/playlist?list=PLxwAhdZUbSpjCxWXejYPHFcKxBt-43dUq)].
+
+![platisd stats overview](https://github-readme-stats.vercel.app/api?username=platisd&count_private=true&show_icons=true)
+![platisd languages](https://github-readme-stats.vercel.app/api/top-langs/?username=platisd&layout=compact&hide=eagle)
