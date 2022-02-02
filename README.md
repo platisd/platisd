@@ -10,8 +10,10 @@ My favorite ones revolve around IoT, robotics and handheld gadgets where I love 
 Hardware-wise, this includes everything from the PCB to the physical case around the electronics and software, from the embedded firmware to the cloud.
 Lately, I have also gotten into creating [YouTube](https://www.youtube.com/c/PlatisSolutionsOpenSource) tutorials about software craftsmanship with C++ and embedded systems.
 
-Additionally, I teach the [DIT112](https://canvas.gu.se/courses/30372/assignments/syllabus) course on Systems Development at the University of Gothenburg.
-In DIT112, students learn how to create a system composed of both software and hardware components in regards to development, requirements handling, testing and quality assurance; all that, in an agile manner. Check out some of their projects: [[2019](https://www.youtube.com/playlist?list=PLxwAhdZUbSph38__jMbrT-IjU4i3ZnMap)], [[2020](https://www.youtube.com/playlist?list=PLxwAhdZUbSpjCxWXejYPHFcKxBt-43dUq)].
+Additionally, I teach the undergraduate [DIT112](https://canvas.gu.se/courses/30372/assignments/syllabus) course on Systems Development at the University of Gothenburg.
+In DIT112, students learn how to create a system composed of both software and hardware components in regards to development, requirements handling, testing and quality assurance; all that, in an agile manner. Check out some of their projects: [[2019](https://www.youtube.com/playlist?list=PLxwAhdZUbSph38__jMbrT-IjU4i3ZnMap)], [[2020](https://www.youtube.com/playlist?list=PLxwAhdZUbSpjCxWXejYPHFcKxBt-43dUq)], [2021](https://www.youtube.com/watch?v=U5SjewAVq1w&list=PLxwAhdZUbSph5BRXXh0Mt37lpD-ZY5uzx&index=1).
+
+During the autumn term of 2021, I also taught the postgraduate [DAT265](https://chalmers.instructure.com/courses/15341/assignments/syllabus) course on Software Evolution at Chalmers (Gothenburg). The students were taught how to evolve an existing code base by using various techniques to comprehend and refactor it while being in contact with the upstream project's stakeholders.
 
 ![platisd stats overview](https://github-readme-stats.vercel.app/api?username=platisd&count_private=true&show_icons=true)
 ![platisd languages](https://github-readme-stats.vercel.app/api/top-langs/?username=platisd&layout=compact&hide=eagle)
